@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-E34F26?style=for-the-badge&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/react.js-E34F26?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-E34F26?style=for-the-badge&logo=mysql&logoColor=white">
