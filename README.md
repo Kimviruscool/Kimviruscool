@@ -17,7 +17,8 @@
 <!--Developer tools-->
 <br/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<br/ id="collaboration tool">
+<!--collaboration tool-->
+<br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 <br/>
