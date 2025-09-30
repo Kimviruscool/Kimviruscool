@@ -20,7 +20,9 @@
 <h2>collaboration tool</h2>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-181717?style=for-the-badge&logo=slack&logoColor=white">
 </div>
-
+<br/>
+<br/>
+<br/>
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimviruscool)](https://github.com/anuraghazra/github-readme-stats)
